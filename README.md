@@ -4,7 +4,7 @@ Team Members:
 
 Names(Tasks)
 
-1. Danh Tran(Coordinator)
+1. Danh Tran(Coordination and Pi Setup)
 2. Yash Soni(Programming and Video Editing)
 3. Jenisha Adhikari(Planning and Scheduling)
 4. Ethen Minter(GitHub and Slack)
