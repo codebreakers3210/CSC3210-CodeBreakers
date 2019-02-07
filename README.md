@@ -10,4 +10,4 @@ Names(Tasks)
 4. Ethen Minter(GitHub and Slack)
 5. Isra Aweis(Teamwork Basics)
 
-This repository was created for the purpose of keeping everythinga about the projects for GSU class in check. It includes tabs for work that is in progress, to be done, and is done. Everything included in this repo is for study purposes and specific to the respective class. 
+This repository was created for the purpose of keeping everything about the projects for GSU class in check. It includes tabs for work that is in progress, to be done, and is done. Everything included in this repo is for study purposes and specific to the respective class. 
